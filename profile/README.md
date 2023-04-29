@@ -10,5 +10,5 @@
 </div>
 
 ## Tentang
-SMAN 3 Palu merupakan Sekolah Menengah Negeri di Kota Palu yang terakreditas A, yang memiliki kurang lebih 1390 siswa.
+SMAN 3 Palu merupakan Sekolah Menengah Atas Negeri di Kota Palu yang terakreditas A, yang memiliki kurang lebih 1390 siswa.
 Sekolah yang mengutamakan karakter, dan keimanan atau ketaqwaan terhadap kepercayaannya masing-masing.
